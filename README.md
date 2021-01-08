@@ -6,3 +6,6 @@ My solution for the adventofcode 2020 (https://adventofcode.com/2020) in python 
 
 ----- update 1/6/2021 -----
 - added explanation for day 1 and 2 solutions.
+
+----- update 1/7/2021 -----
+- added explanation for day 3 and 4 solutions.
