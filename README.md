@@ -13,6 +13,8 @@ My solution for the adventofcode 2020 (https://adventofcode.com/2020) in python 
 ----- update 1/8/2021 -----
 - added explanation for day 5 and 6 solutions.
 
-
 ----- update 1/11/2021 -----
 - added explanation for day 7-10 solutions.
+
+----- update 1/12/2021 -----
+- added explanation for day 11 and 12 solutions. (may need to polish day 11 in the future)
