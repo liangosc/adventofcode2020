@@ -21,3 +21,6 @@ My solution for the adventofcode 2020 (https://adventofcode.com/2020) in python 
 
 ----- update 1/15/2021 -----
 - added explanation for day 13 and 14 solutions.
+
+----- update 1/19/2021 -----
+- added explanation for day 15 and 16 solutions.
